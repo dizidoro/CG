@@ -6,6 +6,7 @@ GraphicSystem/RemoteSystemsTempFiles/
 
 *.pydevproject
 .metadata/
+.metadata/.plugins/
 .gradle
 bin/
 tmp/
